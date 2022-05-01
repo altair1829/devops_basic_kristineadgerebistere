@@ -7,5 +7,6 @@ Repozitorijs atrodas https://github.com/altair1829/devops_basic_kristineadgerebi
 Izveidots jauns repozitorijs GitHub - https://github.com
 Uzstādīta jaunakā git versija windows lokāli
 Izmantojot Notepad++ koda rediģēšanas programmu uzrakstīta programma Hello World valodā Java
-[Programmas rezultāts] 
+Programmas rezultāts 
+
 Darba rezultāti iesniegti https://edu.lu.lv
